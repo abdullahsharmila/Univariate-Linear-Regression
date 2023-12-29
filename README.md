@@ -1,5 +1,5 @@
 # Implementation of Univariate Linear Regression
-# Nmae :ABDULLAH R
+# Name :ABDULLAH R
 ## Aim:
 To implement univariate Linear Regression to fit a straight line using least squares.
 ## Equipment’s required:
